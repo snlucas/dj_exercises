@@ -49,3 +49,4 @@ $ python manage.py runserver
  4. Reuse Django Admin;
  5. Authorization;
  6. Make an ETL with the Bookstore;
+ 7. Create a Password Vault App;
