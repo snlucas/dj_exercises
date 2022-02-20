@@ -45,8 +45,9 @@ $ python manage.py runserver
     | Delete a Book           | DELETE |
  
  2. Use HTMX with the last one exercise;
- 3. Test Database;
+ 3. Apply authentication to the Bookstore;
  4. Reuse Django Admin;
- 5. Authorization;
- 6. Make an ETL with the Bookstore;
- 7. Create a Password Vault App;
+ 5. Use JWT in the Bookstore;
+ 6. In Bookstore use File Upload to get data from a spreadsheet;
+ 7. Make an ETL with the Bookstore;
+ 8. Create a Password Vault App;
